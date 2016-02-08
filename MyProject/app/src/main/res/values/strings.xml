@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_accelerometer">Accelerometer</string>
+    <string name="title_activity_gps_android">GpsAndroid</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_android_video">AndroidVideo</string>
+</resources>
